@@ -15,7 +15,7 @@ But re-write the Monkey interpreter/compiler with C++.
 - src/09: butiltin functions
 - src/10: function closures and benchmark fibonacci
 
-Also see the [MinYiLife Blogs](http://lesliezhu.com/tags/%E8%A7%A3%E9%87%8A%E5%99%A8%E4%B8%8E%E7%BC%96%E8%AF%91%E5%99%A8.html)
+Also see the [MinYiLife Blogs](http://lesliezhu.com/blog/tags/#compiler-and-interpreter)
 
 # Run
 
